@@ -1,2 +1,2 @@
-# react-project-new
-webpack+react搭建项目框架，仿照锤子商城
+# smartisan-shopping-car
+react-锤子电商购物系统
